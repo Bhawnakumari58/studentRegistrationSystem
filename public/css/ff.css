@@ -1,0 +1,99 @@
+
+*{
+    padding: 0%;
+    margin: 0%;
+}
+table{
+    background-color: rgb(177, 174, 148);
+}
+.main{
+    padding: 10px 10%;
+}
+.formdesign input{
+    width:40%;
+    padding: 8px 9px;
+    border: 1px solid blue;
+    margin: 3px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+.formdesignn option{
+    width:40%;
+    padding: 8px 9px;
+    border: 1px solid blue;
+    margin: 3px;
+    border-radius: 5px;
+    font-size: 15px;
+
+}
+h3{
+    padding: 10px;
+    margin: 5px 10px;
+    text-align: center;
+    color: rgb(24, 24, 8);
+    font-family: "Times New Roman", Times, serif;
+}
+
+.header h1 h2{
+    display: inline-block;
+    line-height: 40px;
+    margin: 0 5px;
+  }
+.header h2{
+    font-family: Sans-serif; 
+    font-size: 24px;     
+    font-style: normal; 
+    font-weight: bold; 
+    text-align: center; 
+    text-decoration: underline;
+    /* padding: 40px; */
+    color: #000000;
+   }
+  
+   ul{
+    padding: 5px 1px;
+    font-family: verdana; 
+    color:white; 
+    font-size: 16px; 
+    font-style: normal;
+    font-weight: bold;
+    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);  
+    border-collapse: collapse; 
+    border: 2px solid #000000;
+    border-style: dashed;
+}
+h3{
+    text-decoration: underline;
+    text-align: center;
+    text-transform: uppercase;
+    border: bottom 100%;
+    color: #000000;
+}
+ul.inner{
+    border: 10px
+}
+   p{
+       text-align: center;
+       text-align: justify;
+   }
+   input[type=text], input[type=email], input[type=number]{
+    width: 20%;
+    padding: 6px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+   }
+
+   input[type=submit], input[type=reset] input[type=clear]{
+    width: 15%;
+    padding: 8px 12px;
+    margin: 5px 0;
+    box-sizing: border-box;
+   }
+   .btn{
+    border-radius: 5px;
+    width: 80px;
+    height: 35px;
+    cursor: pointer;
+    margin: 10px 10px;
+   
+   }
